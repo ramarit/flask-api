@@ -1,5 +1,9 @@
 # flask-api
 
+Sample dataset from:
+<br />
+http://www.sqlitetutorial.net/sqlite-sample-database/
+
 Run the application:
 
 python server.py
